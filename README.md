@@ -1,2 +1,2 @@
 # leetcode
-leetcode做题记录
+Record the leetcode
